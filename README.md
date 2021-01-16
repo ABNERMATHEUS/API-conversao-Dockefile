@@ -6,6 +6,11 @@ API de conversão de celsius e fahrenheit, vice e versa. Utilizando dockerfile. 
 
 https://hub.docker.com/r/100abner/api-conversao
 
+### Se for clonar do GitHub
+`npm install`
+
+`node index.js`
+
 #### Rotas
 ##### Converter de fahrenheit para celsius
 GET `/fahrenheit/{valor}/celsius`
